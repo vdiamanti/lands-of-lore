@@ -10,7 +10,7 @@ In 2017 I joined again the game, as I had more space and time to actually make t
 I became a GM as well in a social guild with 450 members from all over the world and I would love to be able to put my newly found coding skills
 to test by creating a web page for my lovely international game friends. 
 
-Code style
+Code style:
 I will get to write everything in html5, add css and start looking at various bootstrap themes and even maybe some javascript (time to get my script knowledge tested!)
 By the way, js is basically like Excel on steroids... kinda scary! 
 
